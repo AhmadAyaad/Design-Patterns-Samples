@@ -1,0 +1,13 @@
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\bin\Debug\netcoreapp3.1\ReposiotryDpSample.exe
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\bin\Debug\netcoreapp3.1\ReposiotryDpSample.deps.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\bin\Debug\netcoreapp3.1\ReposiotryDpSample.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\bin\Debug\netcoreapp3.1\ReposiotryDpSample.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\bin\Debug\netcoreapp3.1\ReposiotryDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\bin\Debug\netcoreapp3.1\ReposiotryDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ReposiotryDpSample\obj\Debug\netcoreapp3.1\ReposiotryDpSample.genruntimeconfig.cache

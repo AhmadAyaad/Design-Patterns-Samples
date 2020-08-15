@@ -1,0 +1,13 @@
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\bin\Debug\netcoreapp3.1\ObserverDpSample.exe
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\bin\Debug\netcoreapp3.1\ObserverDpSample.deps.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\bin\Debug\netcoreapp3.1\ObserverDpSample.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\bin\Debug\netcoreapp3.1\ObserverDpSample.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\bin\Debug\netcoreapp3.1\ObserverDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\bin\Debug\netcoreapp3.1\ObserverDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\ObserverDpSample\obj\Debug\netcoreapp3.1\ObserverDpSample.genruntimeconfig.cache

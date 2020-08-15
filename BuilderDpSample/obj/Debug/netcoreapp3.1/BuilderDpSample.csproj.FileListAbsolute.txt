@@ -1,0 +1,13 @@
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\bin\Debug\netcoreapp3.1\BuilderDpSample.exe
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\bin\Debug\netcoreapp3.1\BuilderDpSample.deps.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\bin\Debug\netcoreapp3.1\BuilderDpSample.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\bin\Debug\netcoreapp3.1\BuilderDpSample.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\bin\Debug\netcoreapp3.1\BuilderDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\bin\Debug\netcoreapp3.1\BuilderDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\BuilderDpSample\obj\Debug\netcoreapp3.1\BuilderDpSample.genruntimeconfig.cache

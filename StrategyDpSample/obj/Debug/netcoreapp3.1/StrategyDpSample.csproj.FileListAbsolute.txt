@@ -1,0 +1,13 @@
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\bin\Debug\netcoreapp3.1\StrategyDpSample.exe
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\bin\Debug\netcoreapp3.1\StrategyDpSample.deps.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\bin\Debug\netcoreapp3.1\StrategyDpSample.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\bin\Debug\netcoreapp3.1\StrategyDpSample.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\bin\Debug\netcoreapp3.1\StrategyDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\bin\Debug\netcoreapp3.1\StrategyDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.dll
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.pdb
+C:\Users\ahmed.ayaad\source\repos\BuilderDpSample\StrategyDpSample\obj\Debug\netcoreapp3.1\StrategyDpSample.genruntimeconfig.cache
