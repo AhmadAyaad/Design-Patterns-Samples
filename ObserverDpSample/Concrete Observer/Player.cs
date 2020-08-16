@@ -9,16 +9,16 @@ namespace ObserverDpSample.Concrete_Observer
     class Player : Observer
     {
         public Position Position;
-        public Football Football;
-        public Player(Football football, Position position)
+        public Ball ball;
+        public Player(Ball ball, Position position)
         {
-            Football = football;
+            this.ball = ball;
             Position = position;
         }
 
         public override void Update()
         {
-            Position = Football.Position;
+            Position = ball.Position;
             Console.WriteLine($"Player moved to {Position}");
         }
     }

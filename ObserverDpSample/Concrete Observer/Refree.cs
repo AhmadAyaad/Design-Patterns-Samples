@@ -9,16 +9,16 @@ namespace ObserverDpSample.Concrete_Observer
     class Refree : Observer
     {
         Position position;
-        Football football;
-        public Refree(Football football, Position position)
+        Ball ball;
+        public Refree(Ball ball, Position position)
         {
-            this.football = football;
+            this.ball = ball;
             this.position = position;
         }
 
         public override void Update()
         {
-            position = football.Position;
+            position = ball.Position;
             Console.WriteLine($"Refree moved to: {position}");
         }
     }

@@ -8,6 +8,8 @@ namespace ObserverDpSample.Subject
     abstract class Ball
     {
         List<Observer> observers;
+        public Position Position { get; set; }
+
         public Ball()
         {
             observers = new List<Observer>();

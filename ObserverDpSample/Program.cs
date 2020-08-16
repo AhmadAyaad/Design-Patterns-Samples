@@ -38,6 +38,28 @@ namespace ObserverDpSample
 
             ///notfiy subscriber(player)=>the only one subscribed
             football.Notify();
+
+
+            Console.WriteLine("American Football  Publisher \n");
+
+            Ball americanFootball = new AmericanFootball();
+
+            //Old Subucribers
+            player = new Player(americanFootball, playerPosition);
+            refree = new Refree(americanFootball, refreePosition);
+
+            americanFootball.AttachObserver(player);
+            americanFootball.AttachObserver(refree);
+
+            americanFootball.Position = new Position()
+            {
+                X = 45,
+                Y = 78,
+                Z = 71
+            };
+
+            americanFootball.Notify();
+
         }
     }
 }

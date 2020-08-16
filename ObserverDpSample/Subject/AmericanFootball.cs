@@ -7,6 +7,5 @@ namespace ObserverDpSample.Subject
 {
     class AmericanFootball : Ball
     {
-        public Position Position { get; set; }
     }
 }
